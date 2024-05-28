@@ -13,6 +13,6 @@
 
 여기서는 Random도구를 생성합니다.
 
-````java
+```java
 Random r = new Random();
 ```
