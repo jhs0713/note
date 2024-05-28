@@ -37,4 +37,4 @@ import는 직접 작성하지 않고 **단축키**인 `ctrl+shift+o`를 누릅�
 | 두자리 정수 | `10`부터 `90`개 |
 
 난수 생성의 원리가 궁금하면[위키백과]()에서 확인할 수 있습니다.
-![설명](주소)
+!{카지노](https://www.techopedia.com/kr/wp-content/uploads/sites/7/2023/12/Evolution-speed-baccarat-full-screen.jpg)
